@@ -5,6 +5,7 @@ From my analysis on the dataset, I observed that the active power of the wind tu
 - Wind Speed (m/s)
 - Wind Direction (°) and 
 - Theoretical_Power_Curve (KWh)
+
 However, the date/time column was provided, as all parameters (dependent and independent) were recorded throughout the year of 2018 at an interval of 10 mins from the first 10mins of Jan 1 2018 to the last 10mins of Dec 31 2018. 
 Although, I used Google sheet in formatting and further visualizing the dataset and I figured that there were missing data points from:
 ** 2018-01-26 06:20:00  -  2018-01-30 14:40:00 **. 
